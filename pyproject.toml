@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "pplab6"
+version = "0.1.0"
+description = ""
+authors = ["maxxim1135 <maksym.levytskyi.kn.2021@lpnu.ua>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8.0"
+Flask = "^2.2.2"
+waitress = "^2.1.2"
+SQLAlchemy = "^1.4.42"
+alembic = "^1.8.1"
+mysqlclient = "^2.1.1"
+marshmallow = "^3.18.0"
+flask-bcrypt = "^1.0.1"
+pymssql = "^2.2.6"
+flask-httpauth = "^4.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
