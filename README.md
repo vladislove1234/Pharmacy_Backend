@@ -1,6 +1,2 @@
-Install python 3.8.0 on you machine
-Create virtual enviroment using venv
-Clone this repo
-Install dependencies from requirements.txt
-open terminal in project floder and type "source project_name/bin/activate
-"
+# About Project
+It's my first Back-End Application made with Python (Flask) made in context of University course. 
